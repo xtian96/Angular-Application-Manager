@@ -1,0 +1,13 @@
+package com.getchristianajob.applicationmanager;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApplicationmanagerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApplicationmanagerApplication.class, args);
+	}
+
+}
